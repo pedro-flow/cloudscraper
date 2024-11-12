@@ -129,15 +129,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Cloudscraper](https://github.com/VeNoMouS/cloudscraper) for the base functionality
 - All contributors and users of this wrapper
 
-## 📬 Contact
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
-## ⭐ Show Your Support
-
-Give a ⭐️ if this project helped you!
-
----
-
 <p align="center">Made with ❤️ for the scraping community</p>
